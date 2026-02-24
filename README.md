@@ -1,1 +1,7 @@
-# CS-305
+The client, Artemis Financial wanted to incorporate additional security features to their existing application.
+I actuall really enjoyed conducting vulnerability assessments by incorporating the maven static testing and I found it very interesting to see potential hazards in development. Coding securely is extremely important for all developers because developers need to protect not only their data, but also the data of the users in that system. Adding software security helps protect the company's interests and its reputation as a company with security leaks will have a harder time retaining customers.
+I ran into many different issues in conducting my vulnerability assessment. I struggled with running the checksum verification, but once I found out that I needed to run a Maven update on my Eclipse IDE that helped solve most of the problems that I encountered. One part that I really enjoyed was understanding the vulnerability assessment and suppressing different vulnerabilites.
+By adding encryption standards to the code, I was able to prevent unauthorized access into the files. This step helps protect the data from being stolen by attackers.
+By debugging my code I was able to find errors and when conducting my vulnerability assessments I was able to find out if I was solving vulnerabilities or creating new ones.
+When running into errors, I was able to utilize Google to find if others have come accross similar issues and my professor Inshan Singh was instrumental in assisting me through any issues I came accross.
+My use of encryption standards and the ability to conduct vulnerability assessments could be showcased to future employers.
